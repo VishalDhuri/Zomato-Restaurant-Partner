@@ -1,0 +1,63 @@
+
+.navbar-top img{
+    width: 09.3%;
+    padding: 08px;
+}
+
+.section-body{
+    background-color: rgb(246, 246, 249);
+    text-align: center;
+}
+.section-body input{
+    padding: 15px 145px;
+    border-radius: 10px;
+    color:aliceblue;
+    background-color: #256FEF;
+    font-size: medium;
+    border-color: #256FEF;
+}
+
+.section-body input:hover{
+    background-color: #195dd3;
+}
+
+.section-body div{
+    font-size:20px;
+    font-weight: 600;
+    margin: 16px 0px 0px;
+    color: #3f5a6b;
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+#reg{
+    background-color: aliceblue;
+    color: #256FEF;
+    border-color: #256FEF;
+}
+
+.section-body img{
+    width: 27%;
+}
+.section-body span{
+    font-size: 15px;
+}
+
+.footer-body{
+    background-color: rgb(246, 246, 249);;
+    text-align: center;
+    color: #000304;
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+.footer-body a{
+    font-size: 13px;
+    padding: 08px 10px;
+    color: #3f5a6b;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: dotted;
+}
+
+.footer-body div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222a30;
+}
